@@ -6,7 +6,7 @@ This repo hosts the source code for [Isabelinna's](https://github.com/isabelinna
 
 ### Local Development
 
-You can preview the site by oppening `index.html` with a browser 👌.
+You can preview the site by opening `index.html` with a browser 👌.
 
 ### Coding Guidelines
 
